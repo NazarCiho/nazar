@@ -6,8 +6,11 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #000;
+    background: #000;
     color: #fff;
+    background-image: url('https://t4.ftcdn.net/jpg/06/59/75/73/360_F_659757327_PYJxTz5iDDiycfQx1Xbh5AGw0NeNKuaT.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 nav {
